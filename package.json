@@ -1,0 +1,33 @@
+{
+  "name": "dulcetti",
+  "author": "Bruno Dulcetti <brunodulcetti@gmail.com>",
+  "version": "1.0.0",
+  "description": "My Github's README Profile",
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^5.0.9",
+    "prettier": "^2.2.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulcetti/dulcetti.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulcetti/dulcetti/issues"
+  },
+  "homepage": "https://github.com/dulcetti/dulcetti#readme"
+}
