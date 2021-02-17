@@ -18,5 +18,5 @@ My name is Bruno, but everybody call me by my last name, Dulcetti. I have almost
 
 ## 📬 My latests Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
