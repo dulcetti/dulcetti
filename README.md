@@ -15,3 +15,13 @@ My name is Bruno, but everybody call me by my last name, Dulcetti. I have almost
 - [🔭 My Linkedin](https://www.linkedin.com/in/dulcetti)
 - [💻 My Blog](https://www.brunodulcetti.com/)
 - [🍻 Papo de Bar](https:///www.papodebar.com)
+
+## 📬 My latests Blog posts
+
+<!-- BLOG:START -->
+- [Vida Digital, Alma Analógica](https://www.brunodulcetti.com/vida-digital-alma-analogica/)
+- [Git bare e mirror, como importar repositórios com todo seu histórico](https://www.brunodulcetti.com/git-bare-e-mirror-como-importar-repositorios-com-todo-seu-historico/)
+- [Como resolver erros no typescript com atributos nos componentes em React](https://www.brunodulcetti.com/como-resolver-erros-no-typescript-com-atributos-nos-componentes-em-react/)
+- [Como criar testes em listeners no React Testing Library](https://www.brunodulcetti.com/como-criar-testes-em-listeners-no-react-testing-library/)
+- [Como criar variáveis de ambiente no Nextjs](https://www.brunodulcetti.com/como-criar-variaveis-de-ambiente-no-nextjs/)
+<!-- BLOG:END -->
