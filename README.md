@@ -15,3 +15,8 @@ My name is Bruno, but everybody call me by my last name, Dulcetti. I have almost
 - [🔭 My Linkedin](https://www.linkedin.com/in/dulcetti)
 - [💻 My Blog](https://www.brunodulcetti.com/)
 - [🍻 Papo de Bar](https:///www.papodebar.com)
+
+## 📬 My latests Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
