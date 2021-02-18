@@ -1,12 +1,21 @@
 # Hello, my noble 🍻
 
-My name is Bruno, but everybody call me by my last name, Dulcetti. I have almost 20 years' experience in Front-End solutions.
+```
+██████╗ ██╗   ██╗██╗     ███████╗
+██╔══██╗██║   ██║██║     ╚════██║
+██║  ██║██║   ██║██║         ██╔╝
+██║  ██║██║   ██║██║        ██╔╝
+██████╔╝╚██████╔╝███████╗  ██╔╝
+╚═════╝  ╚═════╝ ╚══════╝  ╚═╝
+```
+
+My name is Bruno, but everybody call me by my last name, Dulcetti, or simply Dul7. I have almost 20 years' experience in Front-End solutions.
 
 ## 🍺 Bellow a little bit more about me
 
 - 💻 I'm Development Coordinator at [Allied Brazil](http://www.alliedbrasil.com)
 - 🏴‍☠️ Brazilian, based on Rio de Janeiro/RJ
-- 🍻 I have a website about drinks called [Papo de Bar](https:///www.papodebar.com)
+- 🍻 I have a website about drinks called [Papo de Bar](https:///www.papodebar.com), so I love beer
 - 🎶 I'm a street musician. I study and play 🎺 trumpet and 🥁 percussion on Brazilian carnival blocks since 2014
 
 ## 🖖🏾 My links
